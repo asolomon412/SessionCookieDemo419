@@ -9,6 +9,6 @@
 <body>
 
 Round 2
-${myuser.firstname } ${myuser.lastname } ${myuser.address }
+${sessionuser.firstname } ${sessionuser.lastname } ${sessionuser.address }
 </body>
 </html>

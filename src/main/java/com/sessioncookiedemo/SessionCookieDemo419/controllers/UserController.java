@@ -30,7 +30,7 @@ public class UserController {
 
 	@RequestMapping("user-nosession")
 	public ModelAndView userDetails3() {
-		return new ModelAndView("user-deets", "sessionuser", userNoSession);
+		return new ModelAndView("user-deets2", "sessionuser", userNoSession);
 	}
 
 }
