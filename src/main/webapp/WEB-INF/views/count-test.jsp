@@ -8,5 +8,11 @@
 </head>
 <body>
 ${test }
+
+<br>
+<a href="counter">Counter</a>
+
+<br>
+${sessID }
 </body>
 </html>

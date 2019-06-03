@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>${pagetitle}</title>
+<title>Cookie Test</title>
 </head>
 <body>
- Hello World
- 
- <a href="counter">Counter</a> <br>
- <a href="cookie-test">Cookie Test</a>
+	${user }
 </body>
 </html>
